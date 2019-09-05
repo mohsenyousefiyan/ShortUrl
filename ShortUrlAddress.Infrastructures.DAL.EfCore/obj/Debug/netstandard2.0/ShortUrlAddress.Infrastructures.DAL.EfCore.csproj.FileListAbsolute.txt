@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.deps.json
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Contracts.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Contracts.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Infrastructures.DAL.EfCore\obj\Debug\netstandard2.0\ShortUrlAddress.Infrastructures.DAL.EfCore.pdb

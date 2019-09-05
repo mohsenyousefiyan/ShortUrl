@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Services.deps.json
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Services.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Services.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Contracts.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Contracts.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Core.Services\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Services.pdb

@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.deps.json
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\bin\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.pdb
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.dll
+C:\Users\Admin\source\repos\ShortUrlAddress\ShortUrlAddress.Entities\obj\Debug\netstandard2.0\ShortUrlAddress.Core.Entities.pdb
