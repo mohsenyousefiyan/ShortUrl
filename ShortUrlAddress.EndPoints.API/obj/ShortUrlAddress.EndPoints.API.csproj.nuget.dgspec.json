@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
         "projectName": "ShortUrlAddress.Core.Contracts",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
               }
             }
           }
@@ -53,21 +53,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj",
         "projectName": "ShortUrlAddress.Core.Services",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -86,11 +92,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
               }
             }
           }
@@ -112,21 +118,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj",
         "projectName": "ShortUrlAddress.EndPoints.API",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.EndPoints.API\\ShortUrlAddress.EndPoints.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.EndPoints.API\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.EndPoints.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -145,11 +157,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Services\\ShortUrlAddress.Core.Services.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj"
               }
             }
           }
@@ -190,21 +202,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj",
         "projectName": "ShortUrlAddress.Core.Entities",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -242,21 +260,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj",
         "projectName": "ShortUrlAddress.Infrastructures.DAL.EfCore",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\ShortUrlAddress.Infrastructures.DAL.EfCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Infrastructures.DAL.EfCore\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Infrastructures.DAL.EfCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -275,11 +299,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ShortUrlAddress\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
               }
             }
           }
@@ -311,10 +335,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

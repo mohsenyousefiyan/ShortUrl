@@ -34,6 +34,7 @@ namespace ShortUrlAddress.EndPoints.API
             services.AddScoped<IShortUrlAddressService, ShortUrlAddressService>();
             services.AddScoped<IUrlValidationService, UrlValidationService>();
 
+            //Add DbContext
             services.AddDbContext<ApplicationDbContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
