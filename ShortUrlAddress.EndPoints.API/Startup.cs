@@ -39,6 +39,7 @@ namespace ShortUrlAddress.EndPoints.API
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+            //Add Mvc Service
             services.AddMvc();
         }
 

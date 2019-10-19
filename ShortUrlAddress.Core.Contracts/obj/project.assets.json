@@ -40,7 +40,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "Riqrks1PQN9wLAMewUXCWoaLjC/IkQvmj4GYlHBpAc/z7LGLlHVp3xqpJPiEGZFRSw4xIJ7unq64NA+AxFxv0g==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
       "projectName": "ShortUrlAddress.Core.Contracts",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrl\\ShortUrlAddress.Core.Contracts\\ShortUrlAddress.Core.Contracts.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Core.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrl\\ShortUrlAddress.Core.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrlApi\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ShortUrl\\ShortUrlAddress.Entities\\ShortUrlAddress.Core.Entities.csproj"
             }
           }
         }
@@ -247,16 +247,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
